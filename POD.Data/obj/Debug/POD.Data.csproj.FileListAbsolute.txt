@@ -1,0 +1,14 @@
+C:\Users\michael\Source\Workspaces\PODPortal\POD.Data\bin\Debug\POD.Data.dll
+C:\Users\michael\Source\Workspaces\PODPortal\POD.Data\bin\Debug\POD.Data.pdb
+C:\Users\michael\Source\Workspaces\PODPortal\POD.Data\bin\Debug\Dapper.dll
+C:\Users\michael\Source\Workspaces\PODPortal\POD.Data\bin\Debug\DapperExtensions.dll
+C:\Users\michael\Source\Workspaces\PODPortal\POD.Data\bin\Debug\POD.Entities.dll
+C:\Users\michael\Source\Workspaces\PODPortal\POD.Data\bin\Debug\POD.Interfaces.dll
+C:\Users\michael\Source\Workspaces\PODPortal\POD.Data\bin\Debug\POD.Entities.pdb
+C:\Users\michael\Source\Workspaces\PODPortal\POD.Data\bin\Debug\POD.Interfaces.pdb
+C:\Users\michael\Source\Workspaces\PODPortal\POD.Data\bin\Debug\Dapper.pdb
+C:\Users\michael\Source\Workspaces\PODPortal\POD.Data\bin\Debug\Dapper.xml
+C:\Users\michael\Source\Workspaces\PODPortal\POD.Data\bin\Debug\DapperExtensions.pdb
+C:\Users\michael\Source\Workspaces\PODPortal\POD.Data\obj\Debug\POD.Data.csprojResolveAssemblyReference.cache
+C:\Users\michael\Source\Workspaces\PODPortal\POD.Data\obj\Debug\POD.Data.dll
+C:\Users\michael\Source\Workspaces\PODPortal\POD.Data\obj\Debug\POD.Data.pdb

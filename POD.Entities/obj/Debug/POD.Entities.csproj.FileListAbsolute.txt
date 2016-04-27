@@ -1,0 +1,5 @@
+C:\Users\michael\Source\Workspaces\PODPortal\POD.Entities\bin\Debug\POD.Entities.dll
+C:\Users\michael\Source\Workspaces\PODPortal\POD.Entities\bin\Debug\POD.Entities.pdb
+C:\Users\michael\Source\Workspaces\PODPortal\POD.Entities\obj\Debug\POD.Entities.csprojResolveAssemblyReference.cache
+C:\Users\michael\Source\Workspaces\PODPortal\POD.Entities\obj\Debug\POD.Entities.dll
+C:\Users\michael\Source\Workspaces\PODPortal\POD.Entities\obj\Debug\POD.Entities.pdb

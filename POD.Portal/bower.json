@@ -1,0 +1,22 @@
+{
+  "name": "POD",
+  "version": "1.0.0.0",
+  "dependencies": {
+    "angular": "~1.5.2",
+    "angular-block-ui": "~0.2.2",
+    "angular-ui": "~0.4.0",
+    "angular-bootstrap": "~1.3.2",
+    "angular-cookies": "~1.4.7",
+    "angular-i18n": "~1.4.7",
+    "angular-translate": "~2.11.0",
+    "angular-route": "~1.4.7",
+    "angular-sanitize": "~1.4.8",
+    "bootstrap": "~3.3.6",
+    "modernizr": "~3.3.1",
+    "requirejs": "~2.2.0",
+    "respondJS": "~1.4.2"
+  },
+  "resolutions": {
+    "angular": ">=1.4.0"
+  }
+}
